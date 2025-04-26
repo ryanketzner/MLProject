@@ -40,6 +40,10 @@ And the following files to execute the project.
    - **Description**: Plots confusion matrices for the models trained on the additional scenarios.  
    - **Output**: Saves confusion matrix plots in the `figs/` directory.  
    - **Run Order**: Must be run after `additional_scenarios.py`.
+  
+## Documentation Style
+
+All functions are documented using google-style docstrings.
 
 ## Dependencies
 
